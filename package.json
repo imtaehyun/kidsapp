@@ -2,7 +2,9 @@
   "dependencies": {
     "hapi": "^8.4.0",
     "nconf": "^0.7.1",
-    "node-parse-api": "^0.3.5"
+    "node-parse-api": "^0.3.5",
+    "request": "^2.58.0",
+    "unirest": "^0.4.2"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
